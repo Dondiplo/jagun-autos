@@ -26,7 +26,7 @@ const CarCard = ({ car }: CarCardProps) => {
       </div>
       <p className="flex mt-6 text-[32px] font-bold">
         <span className="self-start text-[14px] font-semibold">$</span>
-        54
+        56
         <span className="self-end text-[14px] font-medium">/Day</span>
       </p>
 
