@@ -43,8 +43,8 @@ justify-center p-4 text-center "
                 leaveTo="opacity-0 scale-95"
               >
                 <Dialog.Panel
-                  className="relative w-full max-x-lg 
- max-h-[90vh] overflow-y-auto transform rounded-2xl
+                  className="relative w-full md:w-[40%] max-x-lg 
+ max-h-[80vh] overflow-y-auto transform rounded-2xl
  bg-white text-left shadow-xsl transition-all
  flex flex-col gap-5"
                 >
